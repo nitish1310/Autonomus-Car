@@ -3,14 +3,6 @@
 
 # Autonomous Vehicle using Data Mining Technique: Deep Learning
 This Repository contains the setting up of an autonomous raspberry pi-car and training it with data mining models.
-
-# Group 1
-
-## Group Members:
-  1. Divya Samragni Nadakuditi
-  2. Nitish Soman
-  3. Shiva Shankar Ganesan
-  4. Amr Attia
   
 ## Introduction:
 In this project, we will be working on the implementation of data mining Techniques- Convolutional Neural Networks(CNN) for real-world problem Autonomous vehicle. For this project, we used the Smart Video Car Kit V2.0 for Raspberry Pi. We will Assemble the car, Set up Raspberry Pi, Train a Model for detecting traffic signs and act accordingly.
